@@ -1,4 +1,4 @@
-# GooglePlayDuplicateFinder
+# Google Play Music Playlist Duplicate Finder
 Finds duplicates in a publicly accessible google play music playlist.  
 
 This will not work when logged in. It can work by using incognito/private browsing mode.
